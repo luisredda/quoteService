@@ -1,0 +1,14 @@
+/Users/luis.redda/Projects/quoteService/quoteService/bin/Debug/netcoreapp2.1/quoteService.deps.json
+/Users/luis.redda/Projects/quoteService/quoteService/bin/Debug/netcoreapp2.1/quoteService.runtimeconfig.json
+/Users/luis.redda/Projects/quoteService/quoteService/bin/Debug/netcoreapp2.1/quoteService.runtimeconfig.dev.json
+/Users/luis.redda/Projects/quoteService/quoteService/bin/Debug/netcoreapp2.1/quoteService.dll
+/Users/luis.redda/Projects/quoteService/quoteService/bin/Debug/netcoreapp2.1/quoteService.pdb
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.csprojAssemblyReference.cache
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.csproj.CoreCompileInputs.cache
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.RazorAssemblyInfo.cache
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.RazorAssemblyInfo.cs
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.AssemblyInfoInputs.cache
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.AssemblyInfo.cs
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.RazorTargetAssemblyInfo.cache
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.dll
+/Users/luis.redda/Projects/quoteService/quoteService/obj/Debug/netcoreapp2.1/quoteService.pdb
